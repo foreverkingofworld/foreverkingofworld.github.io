@@ -1,0 +1,27 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://foreverkingofworld.github.io",
+    "email": "2762247916@qq.com",
+    "platform": "github",
+    "privateKey": "",
+    "repository": "foreverkingofworld.github.io",
+    "token": "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",
+    "username": "foreverkingofworld"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
